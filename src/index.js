@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter } from 'react-router-dom';
-//new2
+//new2jlkjklajfkl;
 ///ne browser react do
 ReactDOM.render(
   <React.StrictMode>
